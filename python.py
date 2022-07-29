@@ -12,3 +12,8 @@ list = ['a','b','c','d','e']
 
 for letter in list:
   print (letter)
+
+  if letter = "a":
+   print ("Found the character")
+  else:
+   print ("Did not find the character")
