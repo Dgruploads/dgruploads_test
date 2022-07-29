@@ -7,3 +7,8 @@ for numbers in list:
    print ("Found the number")
   else:
    print ("Did nto find the number")
+
+list = ['a','b','c','d','e']
+
+for letter in list:
+  print (letter)
