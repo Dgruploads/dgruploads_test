@@ -2,10 +2,10 @@ TEst file
 
 This is a teta data
 
+<<<<<<< HEAD
 This is a change from worker 111111 - one
 
 This is a change from worker 2222 -two
-
+=======
 This is a n emxample for stashing
-
-This is an aexample for collaboratipon
+>>>>>>> 79aa43f (test)
