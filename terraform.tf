@@ -16,3 +16,5 @@ resource "aws_instance" "ec2_second_example" {
 This is an example for centralized workflow
 
 This is an example for feature branching
+
+This is an example for gitglow workflow
